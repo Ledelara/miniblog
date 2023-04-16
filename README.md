@@ -7,7 +7,7 @@
 
 ## Home
 
-* A página Home é onde o usuário poderá ver os posts dos outros usuários cadastrados no Mini Blog. A página irpá exibir a imagem do post e logo abaixo o título do post, o dono do post e as tags.
+* A página Home é onde o usuário poderá ver os posts dos outros usuários cadastrados no Mini Blog. A página irá exibir a imagem do post e logo abaixo o título do post, o dono do post e as tags.
 
 ![image](https://user-images.githubusercontent.com/122060742/232337815-a4a1676b-11ed-4f17-96ee-8b4edf171d89.png)
 
@@ -29,7 +29,7 @@
 
 ## Criar post 
 
-* A página Criar Post é onde o usuário irá inserir um título, URL da imagem, conteúdo e as tags. Após isso as informações são enviadas ao Firebase e a postagem será exibida para todos na página Home.
+* A página Criar Post é onde o usuário irá inserir um título, URL da imagem, conteúdo e as tags da sua postagem. Após isso as informações são enviadas ao Firebase e a postagem será exibida para todos na página Home.
 
 ![image](https://user-images.githubusercontent.com/122060742/232337937-a74b3154-af75-4b3d-b16b-8e34793bb4e5.png)
 
